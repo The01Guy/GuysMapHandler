@@ -1,0 +1,13 @@
+name: GuysMapHandler 
+main: guy.guysgaming.main.MapMain
+version: 0.1.2
+author: Guy
+commands:
+  tp:
+    description: /<command> [world]
+  test:
+    description: /<command>
+  butcher:
+    description: /<command>
+  zombietest:
+    description: /<command>
